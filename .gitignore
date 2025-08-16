@@ -1,0 +1,7 @@
+# Ignorar todo
+*
+
+# No ignorar estos archivos
+!README.md
+!install.sh
+!.gitignore
