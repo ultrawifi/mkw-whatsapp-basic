@@ -57,7 +57,7 @@ Ve a Mikrowisp -> Gateways SMS -> Agregar.
 
 Rellena los campos con la información que te dio el script al final de la instalación:
 
-URL Gateway: http://12-7.0.0.1:3000/send-message
+URL Gateway: http://127.0.0.1:3000/send-message
 
 Parámetros: destinatario={{destinatario}}&mensaje={{mensaje}}
 
